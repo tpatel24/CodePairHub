@@ -1,5 +1,3 @@
-# CodePairHub
-
 # 🎨 CodePairHub – UI/UX Design  
 
 🚀 **A Peer-to-Peer Coding Interview Platform for College Students**  
