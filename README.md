@@ -15,7 +15,7 @@ This repository contains the **UI/UX designs** for the platform, created for the
 
 ## 🎨 UI Screenshots  
 ![Home Page Mockup](https://github.com/tpatel24/CodePairHub/blob/029d27dba685fdb2713f2fe99c2548792eebd58e/HomePage.png)  
-![Matchmaking Page Mockup](URL-to-Image)  
+![Matchmaking Page Mockup](https://github.com/tpatel24/CodePairHub/blob/2ebce265dee6fc6d806af47a3e1f3f96843f6be8/MatchMaking.png)  
 ![Live Coding Session Mockup](URL-to-Image)  
 
 ## 🎨 Tools Used  
