@@ -26,6 +26,9 @@ This repository contains the **UI/UX designs** for the platform, created for the
 
 ## 🚀 Future Plans  
 - Convert this design into a **fully functional web application**.  
-- Implement matchmaking, coding challenges, and real-time collaboration.  
+- Implement matchmaking, coding challenges, and real-time collaboration.
+
+## 🔗 Figma Link 
+- https://www.figma.com/design/mfVQeqHKEdjhbDyNxhdijU/Hackathon-Project?node-id=1-2&t=eV4tMj9uK2mIW32L-1
 
 
