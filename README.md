@@ -14,7 +14,7 @@ This repository contains the **UI/UX designs** for the platform, created for the
 🔹 **Turn-Based Mode** – Alternating interviewer & interviewee roles  
 
 ## 🎨 UI Screenshots  
-![Home Page Mockup](URL-to-Image)  
+![Home Page Mockup](https://github.com/tpatel24/CodePairHub/blob/029d27dba685fdb2713f2fe99c2548792eebd58e/HomePage.png)  
 ![Matchmaking Page Mockup](URL-to-Image)  
 ![Live Coding Session Mockup](URL-to-Image)  
 
